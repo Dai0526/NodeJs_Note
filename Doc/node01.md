@@ -25,3 +25,11 @@ https:47.95.207.1:3000/fcj/recommend/hot/hehe?us=123&ps=576#hello
 + [/fcj/recommend/hot/hehe] path name
 + [?us=123&ps=576] query string
 + [#hello] hash
+
+#### QueryString
++ encode
++ decode
++ escape
++ parse
++ stringify
++ unescape
