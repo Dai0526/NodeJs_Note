@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dai0526/NodeJs_Note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dai0526/NodeJs_Note/issues"
+  },
+  "homepage": "https://github.com/Dai0526/NodeJs_Note#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.10"
+  }
+}
